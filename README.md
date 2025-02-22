@@ -30,9 +30,17 @@ Use Mostly FoSS when possible to
 </details>
 
 ### __Mail services:__
-Here it's important to remember that in order to have an email there is need for an smtp (simple mail transfer protocol) server, a physical pc that costs money for the mail provider to run. All buissnesses have to make money somehow, and if you dont pay for the product, you are the product (you data is what brings them money), therefore be highly sceptical to completely free mail providers (ie think; how do they make their money and if your okay with their model). Options here could be:
-Proton mail, around $2-4 a month
-one
+In order to host an email there is need for an smtp server and a physical PC. It costs money for the mail provider to run this, thus all buissnesses have to make money somehow, and if you dont pay for the product, you are the product. Therefore be highly sceptical to completely free mail providers (i.e. think; how do they make their money). Are you okay with their model?
+
+<details>
+  <summary>Free Mail Services</summary>
+  
+</details>
+<details>
+<summary>Paid Mail Services</summary>
+  
+  * Proton mail, around $2-4 a month
+</details>
 
 __Selfhosted:__
 
