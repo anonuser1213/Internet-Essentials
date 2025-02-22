@@ -12,15 +12,15 @@ A web browser is an essential part in connecting to the internet. Choosing the r
 
 <details>
 <summary>Everyday Use</summary>
-  
+
 <details>
+
 <summary>Firefox flavours</summary>
     
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
   * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
   * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
 </details>
-  
 <details>
 <summary>Chromium flavours</summary>
     
@@ -48,7 +48,20 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   * [Ghostery](https://www.ghostery.com/) (both Firefox and Chromium), adblocker and cookie pop up blocker
 </details>
 
-### __Mail services:__
+### __Search Engines:__
+Search engines access and utilize a lot of information about us, thus choosing a privacy friendly one is really important. Because of this, Google is not under any circumstances an option.
+
+Nowdays most engines are very fast, though some show better results than others. It's important to still keep the purpose of the search engine in mind while choosing, though it is relatively easy to switch and try different ones.
+
+<details>
+  <summary>Search Engines</summary>
+  
+  * [DuckDuckGo](https://duckduckgo.com), privacy focused search engine with tons of features and great results.
+  * [Ecosia](https://ecosia.org), cliamte focused, plants trees for their income, transparent B certified company.
+  * [Qwant](https://www.qwant.com/), user focused search engine.
+</details>
+
+### __Mail Services:__
 In order to host an email there is need for an smtp server and a physical computer. It costs money for the mail provider to run this, thus all mail providers have to make money somehow, and if you dont pay for the product, you are the product. Be highly sceptical to completely free mail providers, as most of them earn money through scanning your email for data. Think; how does the host make their money? Are you okay with their model?
 
 When choosing an email you can either have your own mail server hosted or use an already running mail server. Hosting your own mail server gives you more control and options, but is ofter a bit more complicated.
