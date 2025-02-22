@@ -11,24 +11,24 @@ Use Mostly FoSS when possible to
 A web browser is an essential part in connecting to the internet. Choosing the right browser can heavily influence your privacy and security.
 
 <details>
-  <summary>Everyday Use</summary>
+<summary>Everyday Use</summary>
   
-  <details>
-    <summary>Firefox flavours</summary>
+<details>
+<summary>Firefox flavours</summary>
     
-    * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
-    * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
-    * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
-  </details>
+  * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
+  * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
+  * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
+</details>
   
-  <details>
-    <summary>Chromium flavours</summary>
+<details>
+<summary>Chromium flavours</summary>
     
-    * [Brave](https://brave.com/), privacy focused browser.
-    * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
-    * [Bromite](https://www.bromite.org/) (for Android), Chromium with some privacy improvements and built in ad blocker.
-    * ([ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)) FoSS variant of Chromium removing all connection to Google.
-  </details>
+  * [Brave](https://brave.com/), privacy focused browser.
+  * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
+  * [Bromite](https://www.bromite.org/) (for Android), Chromium with some privacy improvements and built in ad blocker.
+  * ([ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)) FoSS variant of Chromium removing all connection to Google.
+</details>
   
 </details>
 <details>
