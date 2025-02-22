@@ -12,11 +12,13 @@ __Browsers:__
   <summary>Everyday Use</summary>
   
   __Firefox flavours:__
+  
     * Librewolf
     * Fennet (for Android)
     * Hardened Firefox
   
   __Chromium flavours:__
+  
     * Brave
     * (Degoogled Chromium)
   
