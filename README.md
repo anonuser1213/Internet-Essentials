@@ -13,14 +13,14 @@ __Browsers:__
   
   __Firefox flavours:__
   
-    * Librewolf
-    * Fennet (for Android)
-    * Hardened Firefox
+  * Librewolf
+  * Fennet (for Android)
+  * Hardened Firefox
   
   __Chromium flavours:__
   
-    * Brave
-    * (Degoogled Chromium)
+  * Brave
+  * (Degoogled Chromium)
   
 </details>
 <details>
