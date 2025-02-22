@@ -15,6 +15,7 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   
   <details>
     <summary>Firefox flavours</summary>
+    
     * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
     * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
     * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
@@ -22,6 +23,7 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   
   <details>
     <summary>Chromium flavours</summary>
+    
     * [Brave](https://brave.com/), privacy focused browser.
     * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
     * [Bromite](https://www.bromite.org/) (for Android), Chromium with some privacy improvements and built in ad blocker.
