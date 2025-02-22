@@ -30,20 +30,25 @@ Use Mostly FoSS when possible to
 </details>
 
 ### __Mail services:__
-In order to host an email there is need for an smtp server and a physical PC. It costs money for the mail provider to run this, thus all buissnesses have to make money somehow, and if you dont pay for the product, you are the product. Therefore be highly sceptical to completely free mail providers (i.e. think; how do they make their money). Are you okay with their model?
+In order to host an email there is need for an smtp server and a physical computer. It costs money for the mail provider to run this, thus all mail providers have to make money somehow, and if you dont pay for the product, you are the product. Be highly sceptical to completely free mail providers, as most of them earn money through scanning your email for data. Think; how does the host make their money? Are you okay with their model?
+
+When choosing an email you can either have your own mail server hosted or use an already running mail server. Hosting your own mail server gives you more control and options, but is ofter a bit more complicated.
 
 <details>
-  <summary>Free Mail Services</summary>
+  <summary>Mail Services</summary>
   
+  * Tuta mail, free with paid plan around €3-8 /month
+  * Proton mail, free with paid plan around €4-14 /month
 </details>
+
 <details>
-<summary>Paid Mail Services</summary>
+  <summary>Mail Server Hosters</summary>
   
-  * Proton mail, around $2-4 a month
+  * one.com, about €2 /month
 </details>
 
-__Selfhosted:__
-
-
-
-
+<details>
+  <summary>Self Hostable Mail Servers</summary>
+  
+  Hosting your own mail server can be a bit complicated and requires a computer running 24/7. See the [awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#communication---email---complete-solutions) list for some options.
+</details
