@@ -9,9 +9,17 @@ Use Mostly FoSS when possible to
 ## Tools
 __Browsers:__
 Librewolf
-
+Brave
+Hardened Firefox
+(degoogled chromium)
 
 __Mail services:__
+Here it's important to remember that in order to have an email there is need for an smtp (simple mail transfer protocol) server, a physical pc that costs money for the mail provider to run. All buissnesses have to make money somehow, and if you dont pay for the product, you are the product (you data is what brings them money), therefore be highly sceptical to completely free mail providers (ie think; how do they make their money and if your okay with their model). Options here could be:
+Proton mail, around $2-4 a month
+one
 
 __Selfhosted:__
+
+
+
 
