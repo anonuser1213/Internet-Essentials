@@ -15,12 +15,14 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   
   __Firefox flavours:__
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
-  * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), more privacy respecting firefox.
-  * Hardened Firefox, a set of configuration making Firefox (and variants) more secure.
+  * [Firefox](https://www.mozilla.org/firefox/), standard Firefox, is fine but has some anti-features.
+  * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
+  * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
   
   __Chromium flavours:__
   * [Brave](https://brave.com/), privacy focused browser.
   * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
+  * [Bromite](https://www.bromite.org/) (for Android), Chromium with some privacy improvements and built in ad blocker.
   * ([ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)) FoSS variant of Chromium removing all connection to Google.
   
 </details>
@@ -28,7 +30,18 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   <summary>Special Uses</summary>
  
   __Firefox flavours:__
-  * Tor Browser, browser utilizing Tor, a free overlay network for anonymous communication.
+  * [Tor Browser](https://www.torproject.org/), browser utilizing Tor, a free overlay network for anonymous communication.
+</details>
+
+<details>
+  <summary>Browser Configurations</summary>
+  
+  __Plugins:__
+  * [Privacy Badger](https://privacybadger.org/) (both Firefox and Chromium), browser extension that automatically learns to block invisible trackers.
+  * [NoScript](https://noscript.net/) (both Firefox and Chromium), blacklist or whitelist JavaScript for maximum security and protection.
+  * [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) (Firefox), alters some JS APIs to prevent tracking.
+  * [uBlock Origin](https://ublockorigin.com/) (both Firegox and Chromuium), FoSS ad and content blocker
+  * [Ghostery](https://www.ghostery.com/) (both Firefox and Chromium), adblocker and cookie pop up blocker
 </details>
 
 ### __Mail services:__
@@ -39,8 +52,8 @@ When choosing an email you can either have your own mail server hosted or use an
 <details>
   <summary>Mail Services</summary>
   
-  * Tuta mail, free with paid plan around €3-8 /month
-  * Proton mail, free with paid plan around €4-14 /month
+  * [Tuta mail](https://tuta.com/), free with paid plan around €3-8 /month
+  * [Proton mail](https://proton.me/mail), free with paid plan around €4-14 /month
 </details>
 
 <details>
