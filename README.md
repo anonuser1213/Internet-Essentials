@@ -24,6 +24,7 @@ Use Mostly FoSS when possible to
 <details>
   <summary>Special Uses</summary>
  
+  __Firefox flavours:__
   * Tor Browser
 </details>
 
