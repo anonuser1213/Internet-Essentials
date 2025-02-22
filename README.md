@@ -15,9 +15,11 @@ __Browsers:__
     * Librewolf
     * Fennet (for Android)
     * Hardened Firefox
+  
   __Chromium flavours:__
     * Brave
     * (Degoogled Chromium)
+  
 </details>
 <details>
   <summary>Special Uses</summary>
