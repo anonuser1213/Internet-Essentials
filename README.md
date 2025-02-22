@@ -15,7 +15,6 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   
   __Firefox flavours:__
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
-  * [Firefox](https://www.mozilla.org/firefox/), standard Firefox, is fine but has some anti-features.
   * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
   * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
   
