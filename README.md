@@ -18,6 +18,7 @@ Use Mostly FoSS when possible to
   
   __Chromium flavours:__
   * Brave
+  * DuckDuckGo Browser
   * (Degoogled Chromium)
   
 </details>
