@@ -51,4 +51,4 @@ When choosing an email you can either have your own mail server hosted or use an
   <summary>Self Hostable Mail Servers</summary>
   
   Hosting your own mail server can be a bit complicated and requires a computer running 24/7. See the [awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#communication---email---complete-solutions) list for some options.
-</details
+</details>
