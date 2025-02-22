@@ -34,9 +34,8 @@ A web browser is an essential part in connecting to the internet. Choosing the r
 </details>
 
 <details>
-  <summary>Browser Configurations</summary>
+  <summary>Browser Plugins</summary>
   
-  __Plugins:__
   * [Privacy Badger](https://privacybadger.org/) (both Firefox and Chromium), browser extension that automatically learns to block invisible trackers.
   * [NoScript](https://noscript.net/) (both Firefox and Chromium), blacklist or whitelist JavaScript for maximum security and protection.
   * [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) (Firefox), alters some JS APIs to prevent tracking.
