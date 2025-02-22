@@ -8,25 +8,27 @@ Use Mostly FoSS when possible to
 
 ## Tools
 ### __Browsers:__
+A web browser is an essential part in connecting to the internet. Choosing the right browser can heavily influence your privacy and security.
+
 <details>
   <summary>Everyday Use</summary>
   
   __Firefox flavours:__
-  * Librewolf
-  * Fennet (for Android)
-  * Hardened Firefox
+  * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
+  * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), more privacy respecting firefox.
+  * Hardened Firefox, a set of configuration making Firefox (and variants) more secure.
   
   __Chromium flavours:__
-  * Brave
-  * DuckDuckGo Browser
-  * (Degoogled Chromium)
+  * [Brave](https://brave.com/), privacy focused browser.
+  * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
+  * ([ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)) FoSS variant of Chromium removing all connection to Google.
   
 </details>
 <details>
   <summary>Special Uses</summary>
  
   __Firefox flavours:__
-  * Tor Browser
+  * Tor Browser, browser utilizing Tor, a free overlay network for anonymous communication.
 </details>
 
 ### __Mail services:__
