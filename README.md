@@ -1,10 +1,16 @@
 # Internet-Essentials
-A list of essential privacy and safety tools.
+A list of essential privacy and security tools.
 
-## Habits
-Never ever give out your real email to most online services, this is to prevent data brokers and to get hold of your email
+## General considerations
+Never ever give out your real email to most online services, this is to prevent data brokers and to get hold of your email.
 Host your own services, so that you're in control of your data (for free with FoSS)
-Use Mostly FoSS when possible to
+Use Mostly FoSS when possible.
+
+https://www.techlore.tech/goincognito <-- offers a nice course on the topic with a bunch of videos to watch, highly reccomended! 
+
+Also when it comes to digital privacy, security and anonymity (which are totally different things) it's important to take your threat model into consideration ie. what you want to accomplish or what privacy/security you want.
+
+Though I think that everybody (no matter threat model) needs a good baseline, which includes private and secure communication etc.
 
 ## Tools
 ### __Browsers:__
@@ -19,12 +25,12 @@ A web browser is an essential part in connecting to the internet. Choosing the r
     
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
   * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
-  * Hardened Firefox, a set of configurations making Firefox (and variants) more secure.
+  * Hardened Firefox, a set of configurations making Firefox (and variants) more secure. This route is the best option since you get pretty much the same privacy stuff as librewolf but you can still get auto-updates (which is crucial for security) whilst you have to manuallt update librewolf (though that can probably be automated with some package manager and some). Doing this will take you some time to set up, but is well worth it.
 </details>
 <details>
 <summary>Chromium flavours</summary>
     
-  * [Brave](https://brave.com/), privacy focused browser.
+  * [Brave](https://brave.com/), privacy focused browser. Really good for non tech-savvy people, a good reccomend for family and friends.
   * [DuckDuckGo Browser](https://duckduckgo.com/), privacy focused browser.
   * [Bromite](https://www.bromite.org/) (for Android), Chromium with some privacy improvements and built in ad blocker.
   * ([ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)) FoSS variant of Chromium removing all connection to Google.
@@ -46,6 +52,7 @@ A web browser is an essential part in connecting to the internet. Choosing the r
   * [Canvas Blocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) (Firefox), alters some JS APIs to prevent tracking.
   * [uBlock Origin](https://ublockorigin.com/) (both Firegox and Chromuium), FoSS ad and content blocker
   * [Ghostery](https://www.ghostery.com/) (both Firefox and Chromium), adblocker and cookie pop up blocker
+  * 
 </details>
 
 ### __Search Engines:__
@@ -70,7 +77,7 @@ When choosing an email you can either have your own mail server hosted or use an
   <summary>Mail Services</summary>
   
   * [Tuta mail](https://tuta.com/), free with paid plan around €3-8 /month
-  * [Proton mail](https://proton.me/mail), free with paid plan around €4-14 /month
+  * [Proton mail](https://proton.me/mail), free with paid plan around €4-14 /month, free plan only gives you 500mb of storage 
 </details>
 
 <details>
@@ -92,17 +99,24 @@ Choosing an encrypted service is a good idea, since encryption makes your chats 
 
 SMS communication is not recommended since it's both expensive and potentially unsafe.
 
+Using secure, private and encrypted communication is best practice for __everyone__ no matter your threat model. In yesteryear, you'd probably put your post in a closed conceled letter, not without the cover, not with a seethrough cover, so that no one in the process of sending the message would be able to see its contents. Not because you've got something to hide, but because of good prinicple. "You havn't got anything to hide, but you've also not got anything to show" 
+
 <details>
   <summary>Encrypted Messengers</summary>
   
   * [Signal](https://signal.org/) (multi platform), free, easy to use, strong encryption, feature rich.
   * [Matrix protocol](https://matrix.org/) (multi platform), more advanced, open network secure, decentralised communication.
+  * [Telegram](https://telegram.org)(multi platform), created by some russian, good private messages with encryption.
 </details>
 
 ### __Social Media:__
 It's very easy to get used to social media, while it at the same time is a big privacy issue.
 
 Social media is also an uniquely clear example of how privacy issues can get serious consequences. "The feed" which is common in most social media today is heavily targeted towards the user, which can create a misleading perspective and a ["filter bubble"](https://en.wikipedia.org/wiki/Filter_bubble).
+
+Apart from this it's bad for mental health and eats up all your time, studies have shown lower attention span (u get dumber) and just look at your screentime.
+
+So just don't.
 
 If possible, do not use social media at all. If you want to, the following are to prefer.
 
