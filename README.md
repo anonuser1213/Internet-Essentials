@@ -84,3 +84,17 @@ When choosing an email you can either have your own mail server hosted or use an
   
   Hosting your own mail server can be a bit complicated and requires a computer running 24/7. See the [awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#communication---email---complete-solutions) list for some options.
 </details>
+
+### __Messaging Services:__
+A good messaging service should have good functionality while respecting the user, but should preferably not be too uncommon, as we still need a reliable service which people somewhat use.
+
+Choosing an encrypted service is a good idea, since encryption makes your chats a lot harder to monitor, keeping you safe and secure.
+
+SMS communication is not recommended since it's both expensive and potentially unsafe.
+
+<details>
+  <summary>Encrypted Messengers</summary>
+  
+  * [Signal](https://signal.org/) (multi platform), free, easy to use, strong encryption, feature rich.
+  * [Matrix protocol](https://matrix.org/) (multi platform), more advanced, open network secure, decentralised communication.
+</details>
