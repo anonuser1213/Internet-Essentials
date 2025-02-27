@@ -98,3 +98,16 @@ SMS communication is not recommended since it's both expensive and potentially u
   * [Signal](https://signal.org/) (multi platform), free, easy to use, strong encryption, feature rich.
   * [Matrix protocol](https://matrix.org/) (multi platform), more advanced, open network secure, decentralised communication.
 </details>
+
+### __Social Media:__
+It's very easy to get used to social media, while it at the same time is a big privacy issue.
+
+Social media is also an uniquely clear example of how privacy issues can get serious consequences. "The feed" which is common in most social media today is heavily targeted towards the user, which can create a misleading perspective and a ["filter bubble"](https://en.wikipedia.org/wiki/Filter_bubble).
+
+If possible, do not use social media at all. If you want to, the following are to prefer.
+
+<details>
+  <summary>Social Media Platforms</summary>
+  
+  * [Bluesky](https://bsky.social/), microblogging with controllable algorithms.
+</details>
