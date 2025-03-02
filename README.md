@@ -65,7 +65,10 @@ Nowdays most engines are very fast, though some show better results than others.
   
   * [DuckDuckGo](https://duckduckgo.com), privacy focused search engine with tons of features and great results.
   * [Ecosia](https://ecosia.org), cliamte focused, plants trees for their income, transparent B certified company.
+  * [Startpage](https://www.startpage.com/), privacy focused search engine.
+  * [SearXNG](https://searx.be/), privacy focused open source search engine.
   * [Qwant](https://www.qwant.com/), user focused search engine.
+  * [Mojeek](https://www.mojeek.com/), growing independent search engine which does not track you.
 </details>
 
 ### __Mail Services:__
