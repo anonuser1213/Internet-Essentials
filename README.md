@@ -21,7 +21,7 @@ A web browser is an essential part in connecting to the internet. Choosing the r
 
 <details>
 
-<summary>Firefox flavours</summary>
+<summary>Gecko (Firefox) flavours</summary>
     
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
   * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
