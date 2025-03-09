@@ -25,6 +25,7 @@ A web browser is an essential part in connecting to the internet. Choosing the r
     
   * [Librewolf](https://librewolf.net/), a custom version of Firefox, focused on privacy, security and freedom.
   * [Fennec](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) (for Android), Firefox without some telementary and proprietary code.
+  * [Iceraven](https://github.com/fork-maintainers/iceraven-browser) (for Android), un-mozillafied Firefox with extended customization possibilities.
   * Hardened Firefox, a set of configurations making Firefox (and variants) more secure. This route is the best option since you get pretty much the same privacy stuff as librewolf but you can still get auto-updates (which is crucial for security) whilst you have to manuallt update librewolf (though that can probably be automated with some package manager and some). Doing this will take you some time to set up, but is well worth it.
 </details>
 <details>
