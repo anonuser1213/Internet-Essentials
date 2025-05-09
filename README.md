@@ -1,7 +1,7 @@
 # Internet-Essentials
 A list of essential privacy and security tools.
 
-<summary>## General Considerations</summary>
+<summary><h2>General Considerations</h2></summary>
 <details>
 Make yourself less identifiable on the internet when possible. Being able to distinguish you from other users breaks anonymity.
 
