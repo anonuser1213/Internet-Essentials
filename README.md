@@ -110,7 +110,7 @@ Choosing an encrypted service is a good idea, since encryption makes your chats 
 
 SMS communication is not recommended since it's both expensive and potentially unsafe.
 
-Using secure, private and encrypted communication is best practice for __everyone__ no matter your threat model. In yesteryear, you'd probably put your post in a closed conceled letter, not without the cover, not with a seethrough cover, so that no one in the process of sending the message would be able to see its contents. Not because you've got something to hide, but because of good prinicple. "You havn't got anything to hide, but you've also not got anything to show" 
+Using secure, private and encrypted communication is best practice for __everyone__ no matter your threat model. In yesteryear, you'd probably put your post in a closed conceled letter, not without the cover, not with a seethrough cover, so that no one in the process of sending the message would be able to see its contents. Not because you've got something to hide, but because of good prinicple. "You havn't got anything to hide, but you've also not got anything to show" and letting anyone peak at your messageso might not be a very good idea.
 
 <details>
   <summary>Encrypted Messengers</summary>
