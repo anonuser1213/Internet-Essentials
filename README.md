@@ -1,16 +1,22 @@
 # Internet-Essentials
 A list of essential privacy and security tools.
 
-## General considerations
-Never ever give out your real email to most online services, this is to prevent data brokers and to get hold of your email.
-Host your own services, so that you're in control of your data (for free with FoSS)
-Use Mostly FoSS when possible.
+<summary>## General Considerations</summary>
+<details>
+Make yourself less identifiable on the internet when possible. Being able to distinguish you from other users breaks anonymity.
+
+Avoid giving out personal information, such as your email, phone number, adress or real name to most online services, as it is a strong unique tracker.
+
+Hosting your own services is a good idea. Even though it often takes time and knowledge, you'll probably earn both time and knowledge in the long run. If you manage your own services you're in control of your data.
+
+Simply using local services, such as a local program e.g. to convert files, send mail or write text will get you a long way. This guide covers both such more simple approaches and more technical methods.
+
+Use FoSS, (Free and Open-Source Software) software when possible. This way it's less likely that someone is monetizing from your use of it, while it is often community built and has transparency.
 
 https://www.techlore.tech/goincognito <-- offers a nice course on the topic with a bunch of videos to watch, highly reccomended! 
 
-Also when it comes to digital privacy, security and anonymity (which are totally different things) it's important to take your threat model into consideration ie. what you want to accomplish or what privacy/security you want.
-
-Though I think that everybody (no matter threat model) needs a good baseline, which includes private and secure communication etc.
+When it comes to digital privacy, security and anonymity, it's important to take your threat model into consideration. I.e. what you want to accomplish or what privacy/security you want. Everybody (no matter threat model) needs a good baseline, but could you have special interests?
+</details>
 
 ## Tools
 ### __Browsers:__
